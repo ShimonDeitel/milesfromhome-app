@@ -1,0 +1,27 @@
+{
+  "identifier": "Configuration",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "100000010",
+      "localizations": [
+        {
+          "description": "Unlimited trips, all-time record chart, and milestone badges",
+          "displayName": "Miles From Home Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "milesfromhome_pro",
+      "referenceName": "Miles From Home Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
